@@ -55,9 +55,15 @@
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Power+BI&color=222222&logo=Power+BI&logoColor=F2C811&label=" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Kibana&color=005571&logo=Kibana&logoColor=FFFFFF&label=" />&nbsp;&nbsp;
 </p>
+<hr>
 
+
+### Stats
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=le-oasis&theme=dark)](https://git.io/streak-stats)
 
 <hr>
+
 
 ### Medium articles
 | | |
@@ -69,7 +75,3 @@
 
 <!--
 
-
-### 🔥 My Stats
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=le-oasis&theme=dark&background=000000)](https://git.io/streak-stats)
