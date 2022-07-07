@@ -25,5 +25,31 @@
 </h1>
 </div>
 
+<h2 align="center"> 👨‍💻 Whoami</h2>
+<p align="center">
+  <samp> A Data Scientist, adept in applying Python libraries such as Numpy & Pandas for featuring engineering of labeled data for machine learning pipelines, also Scikit-Learn for model evaluation prior to deployment. Solid track record of computational skills, statistical analysis, predictive modeling, and a keen learner of effective storytelling with Data Visualization. Comfortable developing, and maintaining data infrastructure, either on-premises or in the cloud.
+  </samp>
+</p>
 
+<hr>
+
+<h2 align="center"> 🔭 Tech Stack </h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch" />&nbsp;&nbsp;
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch" />&nbsp;&nbsp;
+</p>
+
+<hr>
 
