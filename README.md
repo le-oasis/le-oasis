@@ -21,11 +21,11 @@
     <br>
   <img src="https://komarev.com/ghpvc/?username=le-oasis" alt="https://github.com/le-oasis" />
   <h1>
-  Hello World, Welcome to the Oasis.
+  Hello World 👋🏽, Welcome to the Oasis!
 </h1>
 </div>
 
-<h2 align="center"> 👨‍💻 Whoami</h2>
+<h2 align="center"> 👨‍💻 Whoami?</h2>
 <p align="center">
   <samp> A Data Scientist, adept in applying Python libraries such as Numpy & Pandas for featuring engineering of labeled data for machine learning pipelines, also Scikit-Learn for model evaluation prior to deployment. Solid track record of computational skills, statistical analysis, predictive modeling, and a keen learner of effective storytelling with Data Visualization. Comfortable developing, and maintaining data pipelines, either on-premises or in the cloud.
   </samp>
