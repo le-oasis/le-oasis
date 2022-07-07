@@ -3,7 +3,8 @@
 </div>
 
 
-<div id="badges" align="center">
+<div id="badges"  align="center">
+                                        
   <a href="mailto:oyinlola14@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
@@ -16,4 +17,9 @@
   <a href="https://1400.news/">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website Badge"/>
   </a>
+    <br>
+  <img src="https://komarev.com/ghpvc/?username=le-oasis" alt="https://github.com/le-oasis" />
 </div>
+
+
+
