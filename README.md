@@ -58,7 +58,7 @@
 |:-------------------------:|:-------------------------:|
 |<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@le.oasis/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@le.oasis/1" >|<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@le.oasis/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@le.oasis/2">
 |<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@le.oasis/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@le.oasis/3">|<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@le.oasis/4"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@le.oasis/4">
-|<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@le.oasis/5"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@le.oasis/5">|<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@le.oasis/6"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@le.oasis/6">|| 
+|<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@le.oasis/5"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@le.oasis/5">|<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@le.oasis/7"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@le.oasis/7">|| 
 
 
 <!--
