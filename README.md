@@ -64,6 +64,12 @@
 
 <hr>
 
+### Languages 
+
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@62bba8a8-d47c-49ce-922a-95300ad76068/b814cbc1-e067-4f0f-9381-1c5449271c3d.png" /></a>
+
+<hr>
+
 
 ### Medium articles
 | | |
