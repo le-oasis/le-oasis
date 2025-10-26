@@ -1,4 +1,3 @@
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
@@ -55,18 +54,30 @@
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Power+BI&color=222222&logo=Power+BI&logoColor=F2C811&label=" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Kibana&color=005571&logo=Kibana&logoColor=FFFFFF&label=" />&nbsp;&nbsp;
 </p>
+
 <hr>
 
+<h2 align="center">✍️ Latest from Medium</h2>
 
+<p align="center">
+  <samp>Sharing insights on Data Engineering, Machine Learning, and Cloud Technologies</samp>
+</p>
 
+<br>
 
-### Medium articles
-| | |
-|:-------------------------:|:-------------------------:|
-|<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@le.oasis/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@le.oasis/1" >|<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@le.oasis/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@le.oasis/2">
-|<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@le.oasis/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@le.oasis/3">|<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@le.oasis/4"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@le.oasis/4">
-|<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@le.oasis/5"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@le.oasis/5">|<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@le.oasis/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@le.oasis/0">|| 
+<div align="center">
 
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-<!--
+</div>
 
+<br>
+
+<div align="center">
+
+[![Visit My Medium Profile](https://img.shields.io/badge/📖_Read_All_Articles-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@le.oasis)
+
+</div>
+
+<hr>
