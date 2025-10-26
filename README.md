@@ -63,22 +63,11 @@
   <samp>Sharing insights on Data Engineering, Machine Learning, and Cloud Technologies</samp>
 </p>
 
-<br>
-
 <div align="center">
 
+| | |
+|:-------------------------:|:-------------------------:|
 <!-- BLOG-POST-LIST:START -->
-[![Setting Up Apache Spark &lpar;macOS&rpar;: A Comprehensive Guide]($coverImage)](https://medium.com/@le.oasis/setting-up-apache-spark-on-macos-a-comprehensive-guide-78af7642deb1?source=rss-7a49aca65b85------2)
-
-[![Modern Data Engineering: Building a Data Lakehouse with Apache Spark — Vol 1.]($coverImage)](https://blog.devgenius.io/modern-data-engineering-building-a-data-lakehouse-with-apache-spark-vol-1-853f0882862b?source=rss-7a49aca65b85------2)
-
-[![Data Engineering for Beginners: Business Intelligence with Apache Airflow]($coverImage)](https://medium.com/@le.oasis/data-engineering-for-beginners-business-intelligence-with-apache-airflow-a63e4dd50471?source=rss-7a49aca65b85------2)
-
-[![Recurrent Neural Networks Report]($coverImage)](https://medium.com/@le.oasis/recurrent-neural-networks-report-c70e6f05cc9e?source=rss-7a49aca65b85------2)
-
-[![Data Engineering for Beginners: Data Lake and Data Warehousing]($coverImage)](https://medium.com/@le.oasis/data-engineering-for-beginners-data-lake-and-data-warehousing-2440a91f5990?source=rss-7a49aca65b85------2)
-
-[![Getting Started with Apache Spark, SparkSQL &amp; Scala with Mac Terminal.]($coverImage)](https://medium.com/@le.oasis/getting-started-with-apache-spark-sparksql-scala-with-mac-terminal-b9c9513c51f1?source=rss-7a49aca65b85------2)
 <!-- BLOG-POST-LIST:END -->
 
 </div>
