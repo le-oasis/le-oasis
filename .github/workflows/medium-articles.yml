@@ -1,0 +1,23 @@
+name: Latest Medium Articles
+on:
+  schedule:
+    # Runs every 6 hours
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest Medium posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Pull in Medium posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://medium.com/feed/@le.oasis"
+          max_post_count: 6
+          template: "$newline[![$title]($coverImage)]($url)$newline"
+          commit_message: "Updated with latest Medium articles"
+          committer_username: "medium-bot"
+          committer_email: "medium-bot@example.com"
