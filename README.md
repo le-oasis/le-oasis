@@ -63,17 +63,11 @@
   <samp>Sharing insights on Data Engineering, Machine Learning, and Cloud Technologies</samp>
 </p>
 
-<div align="center">
-
 | | |
 |:-------------------------:|:-------------------------:|
-|<a target="_blank" href="https://medium.com/@le.oasis"><img width="400" src="https://github-readme-medium-recent-article.vercel.app/medium/@le.oasis/0" alt="Latest Medium Article"></a>|<a target="_blank" href="https://medium.com/@le.oasis"><img width="400" src="https://github-readme-medium-recent-article.vercel.app/medium/@le.oasis/1" alt="Latest Medium Article"></a>|
-|<a target="_blank" href="https://medium.com/@le.oasis"><img width="400" src="https://github-readme-medium-recent-article.vercel.app/medium/@le.oasis/2" alt="Latest Medium Article"></a>|<a target="_blank" href="https://medium.com/@le.oasis"><img width="400" src="https://github-readme-medium-recent-article.vercel.app/medium/@le.oasis/3" alt="Latest Medium Article"></a>|
-|<a target="_blank" href="https://medium.com/@le.oasis"><img width="400" src="https://github-readme-medium-recent-article.vercel.app/medium/@le.oasis/4" alt="Latest Medium Article"></a>|<a target="_blank" href="https://medium.com/@le.oasis"><img width="400" src="https://github-readme-medium-recent-article.vercel.app/medium/@le.oasis/5" alt="Latest Medium Article"></a>|
-
-</div>
-
-<br>
+|<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@le.oasis/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@le.oasis/0" alt="Article 1" style="width:100%"></a>|<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@le.oasis/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@le.oasis/1" alt="Article 2" style="width:100%"></a>|
+|<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@le.oasis/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@le.oasis/2" alt="Article 3" style="width:100%"></a>|<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@le.oasis/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@le.oasis/3" alt="Article 4" style="width:100%"></a>|
+|<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@le.oasis/4"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@le.oasis/4" alt="Article 5" style="width:100%"></a>|<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@le.oasis/5"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@le.oasis/5" alt="Article 6" style="width:100%"></a>|
 
 <div align="center">
 
