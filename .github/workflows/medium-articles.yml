@@ -17,7 +17,8 @@ jobs:
         with:
           feed_list: "https://medium.com/feed/@le.oasis"
           max_post_count: 6
-          template: "$newline[![$title]($coverImage)]($url)$newline"
+          template: '|<a href="$url" target="_blank"><img width="400" src="https://github-readme-medium-recent-article.vercel.app/medium/@le.oasis/$index" alt="$title"></a>'
+          row_template: '$template|$newline'
           commit_message: "Updated with latest Medium articles"
           committer_username: "medium-bot"
           committer_email: "medium-bot@example.com"
